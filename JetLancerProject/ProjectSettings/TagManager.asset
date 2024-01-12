@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - PlayerBullet
+  - Enemy
+  - Boss
+  - 
+  - CamCollider
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2900700321
+    locked: 0
+  - name: BgObject
+    uniqueID: 3834047149
+    locked: 0
+  - name: Boss
+    uniqueID: 845970159
+    locked: 0
+  - name: bullet
+    uniqueID: 709641465
+    locked: 0
+  - name: Enemy
+    uniqueID: 1086699639
+    locked: 0
+  - name: Player
+    uniqueID: 2816817151
+    locked: 0
+  - name: MissileObj
+    uniqueID: 4075324371
+    locked: 0
+  - name: BigEffect
+    uniqueID: 2294598597
+    locked: 0
+  - name: UI
+    uniqueID: 2724369971
+    locked: 0
+  - name: Button
+    uniqueID: 2301941165
+    locked: 0
+  - name: text
+    uniqueID: 2324323675
+    locked: 0
